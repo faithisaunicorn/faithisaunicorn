@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @faithisaunicorn
-- 👀 I’m interested in switching careers and maaaaybe becoming a doctor by day, coder by night
-- 🌱 I’m currently learning Python on the 100 days of Python Udemy course
-- 💞️ I’m eager to collaborate or intern in any Med tech or startup-related projects
-- 📫 How to reach me: I'm on instagram @faithisaunicorn, or LinkedIn
+- 👋 Hi, I’m @faithisaunicorn from the sunny island of Singapore!
+- 🦄👩🏻‍⚕️ I’m a locum doctor ([@drfaithnadinechoo](https://www.instagram.com/drfaithnadinechoo)) who also works as a medical writer, blogger ([chasingfaithandlove.com](https://chasingfaithandlove.com)) and a cartoonist ([@theantiworkers on Instagram](https://www.instagram.com/theantiworkers), [theantiworkers.com](https://theantiworkers.com))
+- 🌱 I’m eager to collaborate on any Med tech or startup-related projects
+- 📫 You can reach me on instagram [@faithisaunicorn](https://www.instagram.com/faithisaunicorn), or [LinkedIn](https://www.linkedin.com/in/faith-nadine-choo/)
 
 <!---
 faithisaunicorn/faithisaunicorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
